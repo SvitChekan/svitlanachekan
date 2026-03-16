@@ -11,7 +11,7 @@ Before transitioning into Data Analytics, I spent several years in corporate man
 * **Soft Skills:** Strategic planning, Business acumen, Cross-functional communication
 
 ### What I'm looking for
-I am currently open to Data Analyst or Data Engineering roles where I can leverage my analytical skills to drive data-driven business results.
+I am currently open to Data Analyst roles where I can leverage my analytical skills to drive data-driven business results.
 
 ### Contact
 Feel free to reach out via email: spchekan@icloud.com
